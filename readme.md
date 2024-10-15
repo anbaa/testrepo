@@ -7,3 +7,5 @@ git repo test merge conflict6
 git repo test merge conflict8
 
 git repo test merge conflict9
+
+git repo test merge conflict13
